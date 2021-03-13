@@ -1,12 +1,6 @@
-# welcome-bot
-auto nickname member
+#code bot
+هی چیزی که داخل فایل 
+index.js
+هستش کپی نید و بزار در ریسورس رباتتون
 
-
-# discord :
-https://discord.gg/QDMRTcpYaJ
-
-# link video : 
-son!!!
-
-## aparat : https://www.aparat.com/mohmmd4amin 
-
+#end
